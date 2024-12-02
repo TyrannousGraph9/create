@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+actor Student as s
+rectangle "Online toetssysteem" {
+    usecase uc1 as "UC1: Maak toets"
+}
+s -- uc1
+@enduml     
