@@ -11,7 +11,7 @@ Welkom bij het C# Oefeningen Logboek. Dit logboek bevat een overzicht van alle o
 
 ## Introductie
 
-Dit logboek is bedoeld voor studenten om hun voortgang bij te houden en alle C# opdrachten te documenteren die ingeleverd moeten worden.
+Dit logboek is bedoeld voor Niels om zijn voortgang bij te houden en alle C# opdrachten te documenteren die ingeleverd moeten worden.
 
 ## Opdrachten
 
